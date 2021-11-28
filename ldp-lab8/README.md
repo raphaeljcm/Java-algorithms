@@ -2,7 +2,7 @@
 
 ## How to use it
 
-I used the H2 in this system, so for you be able to use this system, you need to change the URL, USER and PW, you can find it in the ModelLibrary file.
+I used the H2 in this system, so for you be able to use it you need to change the URL, USER and PW(password), you can find it in the ModelLibrary file.
 
 There's only 1 table named books followed by this columns (id, title, author, year_publication, publisher, category). So you need to create a table like that in order to make the system work.
 
